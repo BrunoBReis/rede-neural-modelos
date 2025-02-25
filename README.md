@@ -24,7 +24,7 @@ Além disso, instale as dependências listadas em `requirements.txt`:
 make install
 ```
 
-## Executando os Notebooks
+## Executando `main.ipynb`
 
 Para visualizar e interagir com os notebooks:
 
@@ -40,10 +40,6 @@ Para visualizar e interagir com os notebooks:
    cd rede-neural-modelos
    ```
 
-3. Inicie o Jupyter Notebook:
+3. Intale as [imagens](https://vision.eng.au.dk/?download=/data/WeedData/Nonsegmented.zip)
 
-   ```bash
-   jupyter notebook
-   ```
-
-4. Abra o arquivo `main.ipynb` no navegador e siga as instruções para explorar os modelos disponíveis.
+4. Abra o arquivo `main.ipynb` e execute bloco a bloco.
